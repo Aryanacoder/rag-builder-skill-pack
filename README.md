@@ -69,6 +69,7 @@ Use superRAG-build to design and implement a production RAG app for PDFs, tables
 ```text
 Use superRAG-build to compare AWS Bedrock Knowledge Bases, Azure AI Search, and a self-hosted Qdrant stack for my requirements.
 ```
+[![Star History Chart](https://star-history.com)](https://star-history.com)
 
 ## Privacy
 
