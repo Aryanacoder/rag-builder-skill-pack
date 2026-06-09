@@ -6,7 +6,7 @@ A GitHub-ready agent skill for designing and building source-grounded RAG applic
 
 The main skill, `build-rag-application`, guides an AI agent through a granular RAG discovery interview, then produces a buildable architecture, ingestion plan, retrieval plan, evaluation plan, and implementation backlog.
 
-It was informed by this workspace's local technical RAG application history: Chainlit UI, FAISS/Qdrant indexing, OCR fallbacks, multilingual query handling, source previews, reranking, offline knowledge packs, feedback logs, and retrieval debugging.
+It distills general lessons from building local/offline technical RAG systems: chat UI design, FAISS/Qdrant-style indexing, OCR fallbacks, multilingual query handling, source previews, reranking, offline knowledge packs, feedback logs, and retrieval debugging.
 
 ## Layout
 

@@ -81,7 +81,7 @@ Minimum useful fields:
 - `chunk_index`
 - `permissions` or `tenant_id` when applicable
 
-Domain-specific fields should mirror how users ask questions: product, equipment, customer, region, procedure type, version, policy area, case type, part number, vessel, project, or document status.
+Domain-specific fields should mirror how users ask questions: product, equipment, account, region, procedure type, version, policy area, case type, part number, project, or document status.
 
 ### Embeddings
 

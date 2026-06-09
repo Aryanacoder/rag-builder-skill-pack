@@ -98,7 +98,7 @@ For high-stakes domains, make unsupported answers boring and explicit:
 
 ## Repo Lessons To Reuse
 
-This skill was shaped by a local technical RAG app with these proven patterns:
+Reuse these general lessons from local/offline technical RAG systems:
 
 - Heavy document processing on a developer machine; lightweight runtime on target machines.
 - Full replacement knowledge packs with manifests and checksums for offline deployment.
