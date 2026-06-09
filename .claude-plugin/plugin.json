@@ -1,0 +1,20 @@
+{
+  "name": "rag-builder-skill-pack",
+  "description": "Agent skill for interviewing users and designing source-grounded RAG applications",
+  "version": "0.1.0",
+  "author": {
+    "name": "Local Author"
+  },
+  "homepage": "",
+  "repository": "",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "rag",
+    "retrieval-augmented-generation",
+    "vector-search",
+    "claude",
+    "cursor",
+    "codex"
+  ]
+}
