@@ -1,4 +1,4 @@
-# superRAG-build
+# SuperRAG
 
 The complete agent skill pack for designing, building, evaluating, and deploying retrieval-augmented generation applications.
 
