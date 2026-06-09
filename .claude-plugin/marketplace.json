@@ -1,0 +1,18 @@
+{
+  "name": "rag-builder-skill-pack",
+  "description": "Development marketplace for the RAG Builder skill pack",
+  "owner": {
+    "name": "Local Author"
+  },
+  "plugins": [
+    {
+      "name": "rag-builder-skill-pack",
+      "description": "Interview-driven RAG application design and implementation planning skill",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "Local Author"
+      }
+    }
+  ]
+}
